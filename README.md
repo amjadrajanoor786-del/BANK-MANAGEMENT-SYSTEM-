@@ -1,4 +1,3 @@
-# Bank-Management-System
 # 🏦 Bank Management System
 
 This is a Java-based Bank Management System project with a simple GUI using **Swing** and database connectivity using **MySQL**. It supports user signup, login, deposit, withdrawal, and balance inquiry functionalities.
